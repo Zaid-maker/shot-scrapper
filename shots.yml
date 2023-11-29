@@ -1,3 +1,6 @@
 - url: https://www.google.com/
   output: google.png
   height: 800
+- url: https://taskify-lovat.vercel.app/
+  output: taskify.png
+  height: 800
